@@ -1,2 +1,2 @@
 # welcome
-This is a repo designed to let students freely play around with git commands
+Hi my name is Isa de Sabrit and I am from Miami!
